@@ -1,0 +1,5 @@
+#files to ignore in the backend directory
+# Node.js dependencies
+node_modules/
+# Environment variables
+.env
